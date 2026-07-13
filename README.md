@@ -6,9 +6,9 @@
 
 📧 Email: mehaksharmao845@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/mehak-sharma-data-analyst/
 
-💻 Portfolio: YOUR_PORTFOLIO_LINK
+💻 Portfolio: https://data-analyst-mehak.netlify.app/
 
 ---
 
